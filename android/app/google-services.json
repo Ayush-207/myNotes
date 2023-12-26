@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "738934882935",
+    "project_id": "mynotes-roxx",
+    "storage_bucket": "mynotes-roxx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738934882935:android:7b8c3d40488455a1b1bc72",
+        "android_client_info": {
+          "package_name": "com.flutterapp.mynotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5gvlybmBVSu1faKYEQ2GBRW8BxxycO8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
