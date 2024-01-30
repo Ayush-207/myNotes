@@ -37,6 +37,7 @@ void main() {
         loginRoute: (context) => const LoginView(),
         registerRoute: (context) => const RegistrationView(),
         notesRoute: (context) => const NotesView(),
+        verifyEmailRoute: (context) => const VerifyEmailView(),
       },
     ),
   );
